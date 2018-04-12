@@ -1,0 +1,48 @@
+M/c & T/F   Algo. Workbench
+
+Chapter 3
+
+2)A
+4)C
+6)B
+8)D
+10)B
+12)C
+14)T
+16)F
+18)F
+ Find Error
+2)int for the remaining parameters: value2 & value3
+
+2)
+public Book(){ 
+title = "N/A"; 
+author = "N/A"; 
+publisher = "N/A"; 
+copiesSold = 0; 
+} 
+
+b) 
+
+public Book(String t, String a, String p){ 
+title = t; 
+author = a; 
+publisher = p; 
+copiesSold = 0; 
+} 
+
+
+public Book(String t, String a, String p, int c){ 
+title = t; 
+author = a; 
+publisher = p; 
+copiesSold = c; 
+} 
+
+public String getTitle(){ 
+return title; 
+} 
+
+public void setCopiesSold(int c){ 
+copiesSold = c; 
+} 

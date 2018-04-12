@@ -1,0 +1,40 @@
+
+
+Chapter 2
+
+M/c & T/F 
+
+2)B
+4)B
+6)A
+8)B
+10)D
+12)A
+14)C
+
+16)T
+18)F
+20)F
+
+Predict Output
+
+2) 8
+   2
+4) 1 Error " should be inside parentheses
+
+Algo. Workbench
+
+2) int month = 2, days, years =3;
+4) A) 12  C) 2
+   B) 1   D) 1
+6) Add (+ "/n" + "/n") in each print statement from line 1 to 4
+8) 13
+10)HAVE A GREAT DAY!
+12)double force = 172.5;
+   double area = 27.5;
+   double pressure = area/force;
+   System.out.println(pressure);
+14)String str; 
+   double income; 
+   str = JOptionPane.showInputDialog("Enter your desired " + "annual income."); 
+   income = Double.parseDouble(str);

@@ -1,0 +1,26 @@
+Chapter 6
+
+M/c & T/F 
+
+2)c
+4)c
+6)c
+8)c
+10)b
+12)c
+14)b
+
+16)F
+18)T
+20)T
+22)T
+
+Find Error 
+
+2)can't have two zero argument constructors
+4)static keyword
+  can't manipulate variables from same class
+ 
+Algo. 
+2) case matters enums
+   no need to mention that they're enum values of same
